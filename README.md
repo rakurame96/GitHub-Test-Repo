@@ -8,7 +8,7 @@ Usage of ##
 
 Usage of ###
 ### GitHub-Test-Repo
-**Repo to test GitHub Features** --> Used Double Asterisk(**...**) to make text bold
+**Repo to test GitHub Features** --> Used Double Asterisk(\**...\**) to make text bold
 
 Usage of ####
 #### GitHub-Test-Repo
