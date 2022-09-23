@@ -13,7 +13,7 @@ Usage of ###
 Usage of ####
 #### GitHub-Test-Repo
 Repo to test GitHub Features --> We can use blackslash for escape sequence (\\...\\)
-Expected output is \...\
+Expected output is \\...\\
 
 Usage of #####
 ##### GitHub-Test-Repo
