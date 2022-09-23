@@ -3,7 +3,7 @@ Usage of #
 Repo to test GitHub Features
 
 Usage of ##
-## GitHub-Test-Repo
+## *GitHub-Test-Repo*
 Repo to test GitHub Features
 
 Usage of ###
