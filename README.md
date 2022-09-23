@@ -4,7 +4,7 @@ Repo to test GitHub Features
 
 Usage of ##
 ## GitHub-Test-Repo
-*Repo to test GitHub Features* --> Used Asterisk(*...*) to make text italic
+*Repo to test GitHub Features* --> Used Asterisk(\*...\*) to make text italic
 
 Usage of ###
 ### GitHub-Test-Repo
@@ -12,7 +12,8 @@ Usage of ###
 
 Usage of ####
 #### GitHub-Test-Repo
-Repo to test GitHub Features
+Repo to test GitHub Features --> We can use blackslash for escape sequence (\\...\\)
+Expected output is \...\
 
 Usage of #####
 ##### GitHub-Test-Repo
